@@ -1,7 +1,6 @@
 
-                                                                      <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/T5sSFsI.jpg?1" alt="teste" height="125" width="125">
+  <img src="https://i.imgur.com/T5sSFsI.jpg?1" alt="teste" height="1449" width="1000">
   <br>
   
   <br>
